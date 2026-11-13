@@ -1,2 +1,2 @@
 # Sistema-para-Cafeteria-
-Sistema web para cafeteria
+Projeto da disciplina de programação avançada web - Sistema Web para cafeteria
